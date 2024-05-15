@@ -1,33 +1,44 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8" />
-    <title>Dicee</title>
-    <link rel="stylesheet" href="styles.css" />
-    <link
-      href="https://fonts.googleapis.com/css?family=Indie+Flower|Lobster"
-      rel="stylesheet"
-    />
-  </head>
-  <body>
-    <div class="container">
-      <h1>Dice Game Challange</h1>
+<html lang="en">
 
-      <div class="dice">
-        <p>Player 1</p>
-        <img class="img1" src="./images/dice6.png" />
-      </div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lobster" rel="stylesheet"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1 class="center">Dice Game Challenge</h1>
+    </header>
+    <main>
+        <div class="container">
+            <div class="box">
+                <h4>player 1</h4>
+                <img class="img1" src="./images/dice6.png" width="100" height="100"/>
+            </div>
+            <div class="box">
+                <h2 id="result">Press the toss button</h2>
+                <img id="img-center" src="./images/player-draw.png" height="200px" width="200px">
 
-      <div class="dice">
-        <p>Player 2</p>
-        <img class="img2" src="./images/dice6.png" />
-      </div>
-    </div>
-    <div class="btn">
-      <button onClick="diceGame()">Click Here</button>
-    </div>
+            </div>
+            <div class="box">
+                <h4>player 2</h4>
+                <img class="img2" src="./images/dice6.png" width="100" height="100" />
+            </div>
 
-    <script src="./index.js"></script>
-  </body>
-  <footer>@GDenven</footer>
+        </div>
+        <div class="btn">
+            <button onclick="diceGame()">Toss</button>
+        </div>
+    </main>
+    <footer>
+        <p style="text-align: center;">@GDenven</p>
+    </footer>
+    <script src="index.js"></script>
+</body>
 </html>
