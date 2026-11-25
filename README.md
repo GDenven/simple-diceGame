@@ -1,7 +1,7 @@
 # simple-diceGame 
 <br />
 🎲 Simple Dice Game <br/>
-&emsp;&emsp;A lightweight, two-player dice game where luck decides the winner! <br />
+&emsp;&emsp;A lightweight, two-player dice game where luck decides the winner!
 
 🎮 How to Play <br />
 &emsp;&emsp;Players: Gather two players (Player 1 and Player 2). Each player gets one standard 6-sided die.
