@@ -20,7 +20,7 @@ If both dice show the exact same number of dots, the game ends in a Draw.
 
 Clone or download this repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/GDenven/simple-diceGame.git
 
 
 Open the project folder and run the game (e.g., open index.html in your browser or run your main script).
