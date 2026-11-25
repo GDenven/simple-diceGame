@@ -2,12 +2,12 @@
 <br />
 🎲 Simple Dice Game <br />
 &emsp;&emsp;A lightweight, two-player dice game where luck decides the winner!
-<br />
+
 
 🎮 How to Play <br />
 &emsp;&emsp;Players: Gather two players (Player 1 and Player 2). Each player gets one standard 6-sided die.
 
-&emsp;&emsp;Roll: Click the Roll button to roll both dice at the same time.
+&emsp;&emsp;Roll: Click the Toss button to roll both dice at the same time.
 
 &emsp;&emsp;Win Condition:
 
