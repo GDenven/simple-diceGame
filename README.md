@@ -3,6 +3,7 @@
 🎲 Simple Dice Game <br/>
 &emsp;&emsp;A lightweight, two-player dice game where luck decides the winner!
 
+
 🎮 How to Play <br />
 &emsp;&emsp;Players: Gather two players (Player 1 and Player 2). Each player gets one standard 6-sided die.
 
@@ -14,12 +15,14 @@
 
 &emsp;&emsp;If both dice show the exact same number of dots, the game ends in a Draw. 
 
+
 🚀 Getting Started <br />
 &emsp;&emsp;Clone or download this repository:
 
 &emsp;&emsp;git clone https://github.com/GDenven/simple-diceGame.git 
 
+
 🛠️ Built With <br />
 &emsp;&emsp;HTML, CSS, JavaScript
 
-&emsp;&emsp;You can use this live website: 
+&emsp;&emsp;You can use this live website: https://gdenven.github.io/simple-diceGame/
