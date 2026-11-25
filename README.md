@@ -1,8 +1,8 @@
-# simple-diceGame
+# simple-diceGame 
+<br />
+🎲 Simple Dice Game <br/>
 
-🎲 Simple Dice Game
-
-A lightweight, two-player dice game where luck decides the winner!
+&emsp;&emsp;A lightweight, two-player dice game where luck decides the winner!
 
 🎮 How to Play
 
