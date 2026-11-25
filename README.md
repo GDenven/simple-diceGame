@@ -30,3 +30,5 @@ Press Roll and have fun!
 🛠️ Built With
 
 Add your tech stack here (e.g., HTML, CSS, JavaScript / Python)
+
+Anda boleh layari versi langsung website ini di pautan berikut:
